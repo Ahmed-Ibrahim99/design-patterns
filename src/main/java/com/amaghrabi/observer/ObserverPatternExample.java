@@ -1,7 +1,4 @@
-package com.amaghrabi;
-
-import com.amaghrabi.observer.NewsAgency;
-import com.amaghrabi.observer.Subscriber;
+package com.amaghrabi.observer;
 
 public class ObserverPatternExample {
     public static void main(String[] args) {

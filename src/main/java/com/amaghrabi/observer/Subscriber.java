@@ -1,7 +1,7 @@
 package com.amaghrabi.observer;
 
 public class Subscriber implements Observer {
-    private String name;
+    private final String name;
 
     public Subscriber(String name) {
         this.name = name;
