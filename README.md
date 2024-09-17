@@ -23,8 +23,8 @@ Design patterns are best practices for solving common software design problems. 
    ```
    Here are the branches and their corresponding design patterns:
 
+   - builder-pattern  — Builder Design Pattern
    - observer-pattern — Observer Design Pattern
-   More patterns will be added over time!
      
 ## Contribution
 Feel free to contribute by adding new patterns, improving the existing ones, or enhancing the examples. Just make sure to create a new branch for your pattern.
